@@ -5,6 +5,7 @@ class User < ApplicationRecord
          :recoverable, :rememberable, :validatable
   
   has_many :events, inverse_of: 'creator'
-  # has_and_belongs_to_many :events
+  has_many :enrollments
+  has_many :attended_event, :through => :enrollments, source: :attended_event
 
 end
