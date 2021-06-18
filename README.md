@@ -9,7 +9,7 @@ The reference for this project was made by [THE ODIN PROJECT](https://www.theodi
 - Ruby ( version => 2.7.2 )
 - DB DESIGNER
 
-## Database Schema
+## Application's Database Schema
 ![screenshot](app/assets/images/dbdesigner.png)
 
 ## Installation
