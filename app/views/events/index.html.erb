@@ -2,8 +2,9 @@
 <ul>
     <% @events.each do |event| %>
         <li>
-            <h3>Event Name: <%= event.name %></h3>
-            <h4> Event Date: <%= event.date %></h4>
+            <%= link_to event do %>
+                <h3><%= event.name %>, <%= event.date %></h3>
+            <% end %>
         </li>
     <% end %>
 </ul>
