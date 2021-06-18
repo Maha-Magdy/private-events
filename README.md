@@ -1,6 +1,6 @@
 # PRIVATE EVENTS
 
-The private events application is the Rails app. This application has been made for creating a simple app that allows us to practice using device gem, which helps in authenticate users and authorizes some views depends if they are logged in or not. Furthermore, practicing using active records quires and associations.
+The private events application is the Rails app. This application has been made for creating a simple app that allows me to practice using device gem, which helps in authenticate users and authorizes some views depends if they are logged in or not. Furthermore, practicing using active records quires and associations.
 The reference for this project was made by [THE ODIN PROJECT](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-on-rails/lessons/associations).
 
 ## Built With
