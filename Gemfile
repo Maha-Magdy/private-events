@@ -1,5 +1,5 @@
-source 'https://rubygems.org'
-git_source(:github) { |repo| "https://github.com/#{repo}.git" }
+source 'http://rubygems.org'
+git_source(:github) { |repo| "http://github.com/#{repo}.git" }
 
 ruby '2.7.2'
 
@@ -31,6 +31,9 @@ gem 'bootsnap', '>= 1.4.4', require: false
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platforms: %i[mri mingw x64_mingw]
+  gem 'database_cleaner'
+  gem 'factory_girl_rails'
+  gem 'rspec-rails', '~> 3.5'
 end
 
 group :development do
