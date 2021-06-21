@@ -2,7 +2,7 @@
 
 <ul>
     <h3>Future Events</h3>
-    <% @events.future_events.each do |event| %>
+    <% @future_events.each do |event| %>
         <li>
             <%= link_to event do %>
                 <h3><%= event.name %>, <%= event.date %></h3>
@@ -13,7 +13,7 @@
 
 <ul>
     <h3>Past Events</h3>
-    <% @events.past_events.each do |event| %>
+    <% @past_events.each do |event| %>
         <li>
             <%= link_to event do %>
                 <h3><%= event.name %>, <%= event.date %></h3>
