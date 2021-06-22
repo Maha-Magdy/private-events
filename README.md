@@ -38,8 +38,8 @@ The reference for this project was made by [THE ODIN PROJECT](https://www.theodi
 
 6. Start to create a new user from your server by clicking the sign-Up button, and start to create events by click create event. If you click on available events, you will see all events available. Furthermore, If you create another user, you can enroll in events for other hosts and so on.
 
-Note: if webpacker::manifest::missingentryerror occurs, you will need to run this command to solve the issue
-   rails webpacker: install
+Note: if webpacker::manifest::missingentry error occurs, you will need to run this command to solve the issue
+rails webpacker: install
 
 ## Authors
 
