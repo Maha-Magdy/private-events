@@ -15,7 +15,7 @@ The reference for this project was made by [THE ODIN PROJECT](https://www.theodi
 
 ## **_Installation_** 
 
-### **_To get a local copy up and running follow these simple example steps._** 
+### To get a local copy up and running follow these simple example steps.
 
    1. To clone this repo run this code on a terminal window: 
 
