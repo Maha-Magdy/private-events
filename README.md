@@ -41,7 +41,7 @@ The reference for this project was made by [THE ODIN PROJECT](https://www.theodi
 
 **_Note: if webpacker::manifest::missingentry error occurs, you will need to run this command to solve the issue_** 
 
-   ```rails webpacker:install ```
+      ```rails webpacker:install ```
 
 ## **_Authors_**
 
