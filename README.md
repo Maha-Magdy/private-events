@@ -40,7 +40,7 @@ The reference for this project was made by [THE ODIN PROJECT](https://www.theodi
 
 Note: if webpacker::manifest::missingentry error occurs, you will need to run this command to solve the issue
 
-rails webpacker: install
+rails webpacker:install
 
 ## Authors
 
