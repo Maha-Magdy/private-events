@@ -35,13 +35,13 @@ The reference for this project was made by [THE ODIN PROJECT](https://www.theodi
 
    5. Open rails sever by this command, then follow the link provided to open the application on your browser
 
-         Rails server
+      ```Rails server```
 
    6. Start to create a new user from your server by clicking the sign-Up button, and start to create events by click create event. If you click on available events, you will see all events available. Furthermore, If you create another user, you can enroll in events for other hosts and so on.
 
 **_Note: if webpacker::manifest::missingentry error occurs, you will need to run this command to solve the issue_** 
 
-      ```rails webpacker:install ```
+      rails webpacker:install
 
 ## **_Authors_**
 
